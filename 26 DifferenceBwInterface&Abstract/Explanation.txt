@@ -1,0 +1,5 @@
+Abstract  class can have any access  modifiers for  members.  Interface can have only public members.
+Abstract class may or may not contain Abstract method. Interface can not have defined method.
+Abstract class can have  static or non static members.  Interface can have only  static member variables.
+Abstract class can have final or non final members. Interface can have only final member variables.
+Interface do not have constructor unlike Abstract class.
